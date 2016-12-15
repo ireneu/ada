@@ -1,6 +1,0 @@
-Topic 1 : ['2015', '13', 'Libya', 'AGREEMENT', '12']
-Topic 2 : ['2015', 'H', '12', 'Qaddafi', 'Libya']
-Topic 3 : ['2015', '12', 'Libyan', '13', 'U']
-Topic 4 : ['Qaddafi', '2015', 'aiding', 'March', 'Libyan']
-Topic 5 : ['Libyan', '2015', '05', 'troops', 'SENSITIVE']
-Topic 6 : ['2015', '13', 'FOIA', 'Libyan', 'SENSITIVE']

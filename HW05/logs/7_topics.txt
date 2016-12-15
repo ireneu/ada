@@ -1,7 +1,0 @@
-Topic 1 : ['12', '2015', 'U', 'REDACTIONS', 'Libyan']
-Topic 2 : ['aiding', '2015', 'docx', 'H', 'libya']
-Topic 3 : ['2015', 'Libyan', 'Libya', 'Qaddafi', 'J']
-Topic 4 : ['13', '2015', 'memo', 'Follow', 'BENGHAZI']
-Topic 5 : ['2015', 'Libyan', '12', 'Doc', 'rebel']
-Topic 6 : ['2015', '04841', 'F', '13', '05']
-Topic 7 : ['2015', 'Qaddafi', 'flight', 'PRODUCED', 'U']
