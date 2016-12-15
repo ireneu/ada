@@ -1,0 +1,5 @@
+Topic 1 : ['no.', 'libyan', 'dept.', 'u.s.']
+Topic 2 : ['no.', 'sensitive', 'produced', 'u.s.']
+Topic 3 : ['libya', 'no.', 'libyan', 'information']
+Topic 4 : ['aiding', 'syria', 'no.', 'qaddafi']
+Topic 5 : ['no.', 'libya', '12,', '05/13/2015']

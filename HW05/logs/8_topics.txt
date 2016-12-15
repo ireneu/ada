@@ -1,0 +1,8 @@
+Topic 1 : ['no.', 'date:', 'produced', 'u.s.']
+Topic 2 : ['no.', 'produced', 'information', 'sensitive']
+Topic 3 : ['no.', 'agreement', 'u.s.', 'sensitive']
+Topic 4 : ['libyan', 'no.', 'rebel', 'troops']
+Topic 5 : ['libyan', 'no.', 'sensitive', 'troops']
+Topic 6 : ['aiding', 'syria', 'pis', 'print.']
+Topic 7 : ['no.', 'redactions.', 'doc', 'information']
+Topic 8 : ['libya', '12,', 'september', '2012']

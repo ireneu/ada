@@ -1,0 +1,6 @@
+Topic 1 : ['no.', 'waiver.', '13,', 'produced']
+Topic 2 : ['no.', 'libyan', 'waiver.', 'information']
+Topic 3 : ['libya', 'b6', 'no.', '12.docx']
+Topic 4 : ['libya', 'syria', 'aiding', 'march']
+Topic 5 : ['no.', 'u.s.', 'produced', 'sensitive']
+Topic 6 : ['no.', 'libyan', 'follow', 'sensitive']
